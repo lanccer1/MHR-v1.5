@@ -1,0 +1,37 @@
+========================
+worker cloud flare:
+https://master-mhr1-5.1mehran-mashayekh.workers.dev
+========================
+auth_key: lanccer
+========================
+Deployment ID: (1mehran.mashayekh@gmail.com)
+AKfycbw_7sjSeECZGMW9B9a5YtbubP1i5i7pxm9122n8k2ncZMwuEiHW5-zzRt69eR7eesGz
+
+Web app:
+https://script.google.com/macros/s/AKfycbw_7sjSeECZGMW9B9a5YtbubP1i5i7pxm9122n8k2ncZMwuEiHW5-zzRt69eR7eesGz/exec
+=========================
+Deployment ID: (mohamad.mahdi.ghorbanian@gmail.com)
+AKfycbxye3XiR_Il5JmzGoaSk-neGio1iwdPGfUID0Uhp1jw51z56_8tseyW_rymoIT1FxyzPw
+Web app:
+https://script.google.com/macros/s/AKfycbxye3XiR_Il5JmzGoaSk-neGio1iwdPGfUID0Uhp1jw51z56_8tseyW_rymoIT1FxyzPw/exec
+=========================
+Deployment ID: (azin.azar2025@gmail.com)
+AKfycbz2EtjIf9Mk4WoaWqEXhqEr5Vd9SQcfVCt3ybDuFHj3iI93S41C8WOWe45e9x-Vm2vb
+Web app:
+https://script.google.com/macros/s/AKfycbz2EtjIf9Mk4WoaWqEXhqEr5Vd9SQcfVCt3ybDuFHj3iI93S41C8WOWe45e9x-Vm2vb/exec
+=========================
+Deployment ID: ()
+
+Web app:
+
+=========================
+Deployment ID: ()
+
+Web app:
+
+=========================
+Deployment ID: ()
+
+Web app:
+
+=========================
