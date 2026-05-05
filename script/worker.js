@@ -1,6 +1,6 @@
 // Cloudflare Worker File - v2.0
 
-const WORKER_URL = "worker_url_ro_bezar_inja";
+const WORKER_URL = "id_worker_ro_bezar_inja";
 
 const DEFAULT_UPSTREAM_TIMEOUT_MS = 25000;
 
