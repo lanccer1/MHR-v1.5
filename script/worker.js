@@ -1,6 +1,6 @@
 // Cloudflare Worker File - v2.0
 
-const WORKER_URL = "master-mhr1-5.1mehran-mashayekh.workers.dev";
+const WORKER_URL = "worker_url_ro_bezar_inja";
 
 const DEFAULT_UPSTREAM_TIMEOUT_MS = 25000;
 
