@@ -3,8 +3,8 @@
 // CACHE + بهتر Batch + Cache Key هوشمند
 // =============================================
 
-const AUTH_KEY = "ramz_ro_bezar_inja(avalesh_https://_bezar)";   // دقیقاً مثل config.json
-const WORKER_URL = "id_worker_ro_bezar_inja";  // ورکر خودت
+const AUTH_KEY = "ramz_ro_bezar_inja";   // دقیقاً مثل config.json
+const WORKER_URL = "id_worker_ro_bezar_inja(avalesh_https://_bezar)";  // ورکر خودت
 
 const CACHE_SECONDS = 3600;        // ۷ دقیقه — مناسب برای تصاویر و json اینستاگرام
 const MAX_BATCH_SIZE = 30;
