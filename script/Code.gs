@@ -6,8 +6,8 @@
 const AUTH_KEY = "ramz_ro_bezar_inja";   // دقیقاً مثل config.json
 const WORKER_URL = "id_worker_ro_bezar_inja";  // ورکر خودت
 
-const CACHE_SECONDS = 420;        // ۷ دقیقه — مناسب برای تصاویر و json اینستاگرام
-const MAX_BATCH_SIZE = 10;
+const CACHE_SECONDS = 3600;        // ۷ دقیقه — مناسب برای تصاویر و json اینستاگرام
+const MAX_BATCH_SIZE = 30;
 
 const SKIP_HEADERS = {
   host: 1, connection: 1, "content-length": 1,
